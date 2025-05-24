@@ -2,7 +2,7 @@
 
 👀 I’m interested in data analytics, business intelligence, and turning raw data into actionable insights
 
-🌱 I’m currently learning advanced SQL, Power BI, and machine learning fundamentals
+🌱 I’m currently learning advanced SQL, Data analysis with AI, and machine learning fundamentals
 
 💞️ I’m looking to collaborate on data-driven projects, dashboards, and real-world problem-solving with data
 
